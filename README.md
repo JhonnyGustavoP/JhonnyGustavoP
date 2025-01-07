@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Python Student<br>-VideoMaker<br>-</p>
+<p align="left">-Python Student<br>-VideoMaker<br></p>
 
 ###
 
